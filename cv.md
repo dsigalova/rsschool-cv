@@ -67,6 +67,7 @@ if __name__ == "__main__":
 * **AGS-Froesch** logistic company (2005-2007)
     - Office manager (2006-2007)
     - Assistant of operating department (2005-2006)
+
 ---
 ## Education
 
@@ -76,6 +77,7 @@ if __name__ == "__main__":
     + Backend Developer (Python)
 * **RS School** (2023 - in progress)
     + Frontend Developer
+
 ---
 ## Languages
 
@@ -83,5 +85,6 @@ if __name__ == "__main__":
 * **English** - intermediate / upper-intermediate
 * **German** - intermediate
 * **Turkish** - basic
+
 ---
 
