@@ -48,7 +48,29 @@ body {
 .nav-link {
   padding: 0 20px;
   line-height: 50px;
-  transition: .3s;
+  transition: 0.3s;
   text-decoration: none;
 }
 
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 50%;
+}
+
+.section-profile {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.section-profile-picture {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 20%;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, .6);
+}
