@@ -12,7 +12,9 @@
 * {
   box-sizing: border-box;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: Roboto, sans-serif;
   min-height: 100vh;
@@ -35,3 +37,18 @@ body {
   max-width: 1440px;
   margin: 0 auto;
 }
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  transition: .3s;
+  text-decoration: none;
+}
+
